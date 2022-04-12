@@ -1,0 +1,228 @@
+body{
+    background-color: rgb(255, 255, 255);
+    width: 50vw;
+}
+#header {
+    height: 200px;
+    width: 1467px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar-nav li a{
+    position: absolute;
+width: 34px;
+height: 28px;
+left: 1073px;
+top: 92px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+display: flex;
+align-items: center;
+
+/* Dark Blue */
+
+color: #0A2640;
+}
+
+
+.container-fluid {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    position: absolute;
+    width: 208px;
+    height: 80px;
+    left: 200px;
+    top: 66px;
+}
+
+.navbar-nav a {
+
+    width: 154px;
+    height: 28px;
+    left: 867px;
+    top: 92px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+
+    /* Dark Blue */
+
+    color: black;
+}
+
+
+#blogcontent{
+    height: 1200px;
+}
+
+.blogheading h1{
+    position: absolute;
+width: 391px;
+height: 140px;
+left: 671px;
+top: 247px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 60px;
+line-height: 72px;
+/* or 120% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+
+.blogtitle h2{
+    position: absolute;
+width: 1111px;
+height: 75px;
+left: 146px;
+top: 374px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 75px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+
+
+.bloginfo p{
+    position: absolute;
+width: 115.05px;
+height: 17.55px;
+left: 177.76px;
+top: 461px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+text-align: justify;
+
+color: #000000;
+
+opacity: 0.65;
+}
+
+.comment p{
+    position: absolute;
+width: 115.05px;
+height: 17.55px;
+left: 346.95px;
+top: 461px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+text-align: justify;
+
+color: #000000;
+
+opacity: 0.65;
+}
+
+.bloginfo img{
+    position: absolute;
+width: 16.77px;
+height: 18.38px;
+left: 154.08px;
+top: 462.6px;
+
+background: #000000;
+}
+
+.comment img{
+    position: absolute;
+width: 16.92px;
+height: 14.66px;
+left: 319.88px;
+top: 464.19px;
+}
+
+.g-col-2{
+    position: absolute;
+width: 431px;
+height: 465px;
+left: 146px;
+top: 547px;
+
+}
+
+.g-col-2 p{
+    position: absolute;
+width: 591px;
+height: 556px;
+left: 640px;
+top: 0px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+text-align: justify;
+
+color: #000000;
+}
+
+.extra p{
+    position: absolute;
+width: 1182px;
+height: 231px;
+left: 146px;
+top: 1103px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+text-align: justify;
+
+color: #000000;
+
+}
+
+
+#footer{
+   
+  position: absolute;
+    width: 1385px;
+    height: 373px;
+    left: 78px;
+    top: 1442px;
+    
+}
+

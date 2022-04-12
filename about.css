@@ -1,0 +1,430 @@
+body{
+    background-color: rgb(255, 255, 255);
+    width: 50vw;
+}
+#header {
+    height: 200px;
+    width: 1519px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(238, 244, 246);
+}
+
+.navbar-nav li a{
+    position: absolute;
+width: 34px;
+height: 28px;
+left: 1073px;
+top: 92px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+display: flex;
+align-items: center;
+
+/* Dark Blue */
+
+color: #0A2640;
+}
+
+.container-fluid {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    position: absolute;
+    width: 208px;
+    height: 80px;
+    left: 200px;
+    top: 66px;
+}
+
+.navbar-nav a {
+
+    width: 154px;
+    height: 28px;
+    left: 867px;
+    top: 92px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+
+    /* Dark Blue */
+
+    color: black;
+}
+
+#aboutus{
+    height:2400px;
+}
+
+.aboutusheading h1{
+    position: absolute;
+width: 391px;
+height: 140px;
+left: 640px;
+top: 247px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 60px;
+line-height: 72px;
+/* or 120% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+
+.person1 img{
+    position: relative;
+    width: 444.33px;
+    height: 418px;
+    left: 318.5px;
+    top: 218.42px;
+
+}
+
+.orangebox img{
+    position: absolute;
+width: 499px;
+height: 305px;
+left: 713px;
+top: 489px;
+
+border: 16px solid #F1632A;
+box-sizing: border-box;
+
+}
+
+.greenbox img{
+    position: absolute;
+width: 499px;
+height: 295px;
+left: 665px;
+top: 542px;
+
+background: #53AFA4;
+}
+
+.greenbox p{
+    position: absolute;
+    width: 313px;
+    height: 219px;
+    left: 711px;
+    top: 569px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 19px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.personinfo h1{
+    position: absolute;
+    width: 361px;
+    height: 28px;
+    left: 293px;
+    top: 862px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 28px;
+    text-align: center;
+    color: #051D33;
+}
+
+.personinfo h2 {
+    position: absolute;
+width: 552px;
+height: 116px;
+left: 312px;
+top: 915px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 28px;
+/* or 93% */
+
+
+color: #051D33;
+
+}
+
+.personinfo h4{
+    position: absolute;
+    width: 552px;
+    height: 116px;
+    left: 308px;
+    top: 958px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: #051D33;
+}
+
+.ytlogo img{
+    position: absolute;
+    left: 20.39%;
+    right: 21.32%;
+    top: 157%;
+    bottom: 56.12%;
+    border-radius: 24px;
+}
+
+.aboutusmoreinfo h1{
+    position: absolute;
+    width: 1010px;
+    height: 955px;
+    left: 299px;
+    top: 1160px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 46px;
+    line-height: 52px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    color: #000000;
+}
+
+.aboutusmoreinfo p{
+    position: absolute;
+    width: 1010px;
+    height: 646px;
+    left: 293px;
+    top: 1526px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 52px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    color: #000000;
+}
+
+.personface .image4 img{
+    position: absolute;
+    width: 347px;
+    height: 332px;
+    left: 147px;
+    top: 2073px;
+    border-radius: 76px;
+    object-fit: contain;
+
+}
+
+.personface .image5 img{
+    position: absolute;
+    width: 341px;
+    height: 344px;
+    left: 563px;
+    top: 2065px;
+    border-radius: 81px;
+    object-fit: contain;
+}
+
+.personface .image6 img{
+    position: absolute;
+    width: 329px;
+    height: 362px;
+    left: 953px;
+    top: 2053px;
+    border-radius: 119px;
+    object-fit: contain;
+
+}
+
+.personface .image4 h1{
+    position: absolute;
+    width: 164px;
+    height: 28px;
+    left: 235px;
+    top: 2437px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    color: #051D33;
+
+}
+
+.personface .image4 h2{
+    position: absolute;
+    width: 230px;
+    height: 67px;
+    left: 203px;
+    top: 2481px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 28px;
+    text-align: center;
+    color: #051D33;
+
+}
+
+.personface .image4 p{
+    position: absolute;
+    width: 230px;
+    height: 67px;
+    left: 201px;
+    top: 2518px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 28px;
+    text-align: center;
+    color: #051D33;
+}
+
+.personface .image5 h1{
+    position: absolute;
+width: 143px;
+height: 28px;
+left: 648px;
+top: 2438px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 28px;
+/* identical to box height, or 140% */
+
+text-align: center;
+
+color: #051D33;
+}
+
+.personface .image5 h2{
+    position: absolute;
+width: 230px;
+height: 92px;
+left: 604px;
+top: 2482px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 28px;
+/* or 70% */
+
+text-align: center;
+
+color: #051D33;
+}
+
+.personface .image5 p{
+    position: absolute;
+    width: 230px;
+    height: 92px;
+    left: 604px;
+    top: 2519px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    color: #051D33;
+
+}
+
+.personface .image6 h1{
+    position: absolute;
+width: 194px;
+height: 56px;
+left: 1020px;
+top: 2441px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 28px;
+/* or 140% */
+
+text-align: center;
+
+color: #051D33;
+}
+
+.personface .image6 h2{
+    position: absolute;
+width: 273px;
+height: 92px;
+left: 981px;
+top: 2482px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 28px;
+/* or 70% */
+
+text-align: center;
+
+color: #051D33;
+}
+
+.personface .image6 p{
+    position: absolute;
+    width: 273px;
+    height: 92px;
+    left: 981px;
+    top: 2525px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 28px;
+    text-align: center;
+    color: #051D33;
+}
+
+
+#footer{
+   
+    position: absolute;
+      width: 1385px;
+      height: 373px;
+      left: 78px;
+      top: 2633px;
+      
+      
+  }
+

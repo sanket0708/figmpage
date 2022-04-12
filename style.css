@@ -1,0 +1,611 @@
+body{
+    background-color: rgb(255, 255, 255);
+    width: 50vw;
+}
+#header {
+    height: 200px;
+    width: 1467px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar-nav li a{
+    position: absolute;
+width: 34px;
+height: 28px;
+left: 1073px;
+top: 92px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+display: flex;
+align-items: center;
+
+/* Dark Blue */
+
+color: #0A2640;
+}
+
+
+.container-fluid {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    position: absolute;
+    width: 208px;
+    height: 80px;
+    left: 200px;
+    top: 66px;
+}
+
+.navbar-nav a {
+
+    width: 154px;
+    height: 28px;
+    left: 867px;
+    top: 92px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+
+    /* Dark Blue */
+
+    color: black;
+}
+
+.leftside h1{
+    position: absolute;
+width: 317px;
+height: 143px;
+left: 166px;
+top: 349px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 42px;
+line-height: 57px;
+
+color: #000000;
+
+}
+
+.leftside p{
+    position: absolute;
+width: 408px;
+height: 214px;
+left: 167px;
+top: 476px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+text-align: justify;
+
+/* Gray */
+
+color: #777777;
+}
+
+.rightside img{
+    position: absolute;
+left: 53.47%;
+height: 419px;
+width: 631px;
+right: 7.71%;
+top: 33.04%;
+bottom: 87.92%;
+
+background: url(.jpg);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 24px;
+}
+
+
+/*Services section*/
+
+#millioncareers{
+    height: 1500px;
+}
+
+#millioncareers .vision img{
+
+position: absolute;
+width: 476px;
+height: 299px;
+left: 122px;
+top: 806px;
+
+}
+
+#millioncareers  .para p{
+    position: absolute;
+width: 429px;
+height: 161px;
+left: 888px;
+top: 916px;
+
+/* Paragraphs/Text XS */
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+/* or 175% */
+
+text-align: justify;
+
+/* Gray */
+
+color: #777777;
+}
+
+#millioncareers .para h1{
+    position: absolute;
+width: 139px;
+height: 62.3px;
+left: 888px;
+top: 853px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 72px;
+/* or 150% */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+
+.mission h1{
+    position: absolute;
+width: 187px;
+height: 83.06px;
+left: 191px;
+top: 1243px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 72px;
+/* or 150% */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+
+.mission p{
+    position: absolute;
+width: 429px;
+height: 161px;
+left: 191px;
+top: 1326px;
+
+/* Paragraphs/Text XS */
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+/* or 175% */
+
+text-align: justify;
+
+/* Gray */
+
+color: #777777;
+}
+
+.mission img{
+    position: absolute;
+width: 301px;
+height: 301px;
+left: 888px;
+top: 1211px;
+
+}
+
+/*Our services*/
+
+#ourservices{
+    height: 2700px;
+}
+
+.ourservicesheading h1{
+position: relative;
+left: 77.46%;
+right: 36.53%;
+top: 27.83%;
+bottom: 71.63%;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 60px;
+line-height: 32px;
+/* identical to box height, or 53% */
+
+display: flex;
+align-items: center;
+
+color: #051D33;
+}
+
+#career .leftside h1{
+  
+    position: absolute;
+width: 475px;
+height: 89px;
+left: 114px;
+top: 1772px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 72px;
+/* or 150% */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+}
+
+#career .leftside p{
+    position: absolute;
+width: 751px;
+height: 250px;
+left: 114px;
+top: 1861px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 46px;
+/* or 230% */
+
+text-align: justify;
+
+/* Gray */
+
+color: #777777;
+
+}
+
+#career .rightside img{
+    position: absolute;
+width: 364px;
+height: 274px;
+left: 1058px;
+top: 1801px;
+
+}
+
+.streams img{
+   
+    position: absolute;
+width: 336px;
+height: 270px;
+left: 123px;
+top: 2154px;
+
+}
+
+.streams h1{
+    position: absolute;
+    width: 475px;
+    height: 89px;
+    left: 567px;
+    top: 2210px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 72px;
+    /* or 150% */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+}
+
+.streams p{
+    position: absolute;
+    width: 751px;
+    height: 142px;
+    left: 567px;
+    top: 2309px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 46px;
+    /* or 230% */
+    
+    text-align: justify;
+    
+    /* Gray */
+    
+    color: #777777;
+}
+
+.oneonone h1{
+    position: absolute;
+    width: 475px;
+    height: 89px;
+    left: 132px;
+    top: 2555px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 72px;
+    /* or 150% */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+    
+}
+
+.oneonone p{
+    position: absolute;
+    width: 751px;
+    height: 111px;
+    left: 132px;
+    top: 2694px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 46px;
+    /* or 230% */
+    
+    text-align: justify;
+    
+    /* Gray */
+    
+    color: #777777;
+    
+}
+
+.oneonone img{
+    position: absolute;
+width: 380px;
+height: 253px;
+left: 929px;
+top: 2562px;
+
+}
+
+.training img{
+    position: absolute;
+width: 358px;
+height: 241px;
+left: 116px;
+top: 2985px;
+}
+
+.training h1{
+    position: absolute;
+    width: 475px;
+    height: 89px;
+    left: 573px;
+    top: 2967px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 72px;
+    /* or 150% */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+}
+.training p{
+    position: absolute;
+    width: 751px;
+    height: 205px;
+    left: 573px;
+    top: 3106px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 46px;
+    /* or 230% */
+    
+    text-align: justify;
+    
+    /* Gray */
+    
+    color: #777777;
+    
+    
+}
+
+.finance h1{
+    position: absolute;
+    width: 588px;
+    height: 89px;
+    left: 122px;
+    top: 3453px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 72px;
+    /* or 150% */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+}
+
+.finance p{
+    position: absolute;
+    width: 751px;
+    height: 192px;
+    left: 122px;
+    top: 3591px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 46px;
+    /* or 230% */
+    
+    text-align: justify;
+    
+    /* Gray */
+    
+    color: #777777;
+}
+
+.finance img{
+    position: absolute;
+width: 385px;
+height: 238px;
+left: 933px;
+top: 3503px;
+
+}
+
+#ytlogo img{
+    position: absolute;
+left: 19.19%;
+right: 19.23%;
+top: 546.69%;
+bottom: 25.31%;
+
+}
+
+#bestjob{
+    height: 670px;
+}
+
+.mainheading{
+    height: 670px;
+    width: 1518px;
+    background: linear-gradient(111.05deg, #FF4E50 -38.71%, #F9D423 103.54%);
+
+}
+
+.mainheading h1{
+    position: static;
+left: 40.5%;
+right: 40.5%;
+top: 18.48%;
+bottom: 64.13%;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 32px;
+/* identical to box height, or 160% */
+
+display: flex;
+align-items: center;
+
+/* Light Grey */
+
+color: #F1F1F1;
+padding: 20px;
+margin-left: 656px;
+
+}
+
+.mainheading p{
+    position: static;
+    width: 842px;
+    left: calc(50% - 862px/2);
+    padding: 4px;
+    top: 42.39%;
+    bottom: 18.48%;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 11px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-left: 351px;
+}
+
+.col-sm img{
+    position: relative;
+    left: 11%;
+    right: 42%;
+    top: 16%;
+    bottom: 27.31%;
+    background: url(.jpg);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 20px;
+
+}
+
+
+
+#footer{
+   
+    position: absolute;
+      width: 1385px;
+      height: 373px;
+      left: 78px;
+      top: 5071px;
+    
+  }
+
+
+ 
+
+
+
